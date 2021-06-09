@@ -1,0 +1,24 @@
+.pic{
+display:flex;
+justify-content:space-around;
+}
+
+.title {
+border: ridge 3px aqua;
+}
+
+.Q1{
+display:none;
+}
+
+.Q2 {
+display:none;
+}
+
+.Q3 {
+display:none;
+}
+
+.Q4 {
+display:none;
+}
